@@ -11,5 +11,7 @@ Thomas Heckelei - University of Bonn, Germany
 
 Hugo Storm - DHL and University of Bonn, Germany
 
-### This is the github repository providing all course material in terms of links and files
+### Links to course presentations
+
+- [Intro slides with comments allowed](https://docs.google.com/presentation/d/1Fln8pB8ml-yPhRrQAEcarbtiMeuNEwt_mZZLsE_77WY/edit?usp=sharing)
 
