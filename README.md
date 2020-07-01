@@ -14,4 +14,4 @@ Hugo Storm - DHL and University of Bonn, Germany
 ### Links to course presentations
 
 - [Intro slides with comments allowed](https://docs.google.com/presentation/d/1Fln8pB8ml-yPhRrQAEcarbtiMeuNEwt_mZZLsE_77WY/edit?usp=sharing)
-
+- [Day 1 slides with comments allowed](https://docs.google.com/presentation/d/1DjcYG9uDWZlCZ_iq5brNfMGf5fGhLqRhh2G9CEuhcQI/edit?usp=sharing)
